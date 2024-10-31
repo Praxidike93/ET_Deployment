@@ -1,6 +1,5 @@
-<?
+<?php
 
- echo $_GET[number1]; 
- echo $_GET[number2];
-
+ echo $_GET[number1] * $_GET[number2];
+ 
  ?>
